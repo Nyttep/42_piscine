@@ -1,0 +1,5 @@
+Credentials cache: API:00572BAB-4BCE-4BDF-8B0A-3B615DEDF1E3
+        Principal: pdubois@42.FR
+
+  Issued                Expires               Principal
+Jun 28 16:20:47 2021  Jul  5 16:20:47 2021  krbtgt/42.FR@42.FR
